@@ -1,0 +1,21 @@
+Statistics:
+===========
+Trinity Version:      Trinityrnaseq_r20131110
+Compiler:             GCC
+Trinity Parameters:   --seqType fq --JM 1G --single assembly_ready.fastq --output assembly
+Unpaired read mode
+ Input data
+  Single.fasta  213 MByte
+  Number of unique KMERs: 26687000
+  Number of reads:        0 Output data
+  Trinity.fasta 2 MByte
+
+Runtime
+=======
+Start:       Thu Sep 11 19:52:16 PDT 2014
+End:         Thu Sep 11 20:35:57 PDT 2014
+Trinity.pl   2621 seconds
+  Inchworm   253 seconds
+  Chrysalis  514 seconds
+  Butterfly  1845 seconds
+  Rest       9 seconds
